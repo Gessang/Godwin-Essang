@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gessang
+- 👋 Hi, I’m Godwin Essang
 - 👀 I’m interested in e-learning web app and site
 - 🌱 I’m currently learning frontend development 
 - 💞️ I’m looking to collaborate on any project relating learning and development 
